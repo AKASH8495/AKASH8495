@@ -16,5 +16,5 @@ Hi there! I'm Akash, a front-end developer who loves turning ideas into user-fri
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg](https://www.flaticon.com/free-icon/html-5_174854?term=html5&page=1&position=2&origin=search&related_id=174854)https://www.flaticon.com/free-icon/html-5_174854?term=html5&page=1&position=2&origin=search&related_id=174854" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="36" height="36" alt="HTML5" /></a>
 </p>
