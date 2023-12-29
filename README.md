@@ -12,3 +12,9 @@ Hi there! I'm Akash, a front-end developer who loves turning ideas into user-fri
 * 🧠  I'm learning Next.js, TypeScript
 * 🤝  I'm open to collaborating on interesting JavaScript projects
 * ⚡  I love coding
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg](https://www.flaticon.com/free-icon/html-5_174854?term=html5&page=1&position=2&origin=search&related_id=174854)https://www.flaticon.com/free-icon/html-5_174854?term=html5&page=1&position=2&origin=search&related_id=174854" width="36" height="36" alt="HTML5" /></a>
+</p>
