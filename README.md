@@ -17,4 +17,6 @@ Hi there! I'm Akash, a front-end developer who loves turning ideas into user-fri
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="36" height="36" alt="HTML5" /></a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="[https://cdn-icons-png.flaticon.com/512/732/732212.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8WHiflZyXffrnb_rsoHv9OSZuNrC9kbyLg&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8WHiflZyXffrnb_rsoHv9OSZuNrC9kbyLg&usqp=CAU" width="36" height="36" alt="HTML5" /></a>
 </p>
